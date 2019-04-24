@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVP</string>
+    <string name="go">go</string>
+    <string name="form_hint">pattern</string>
+    <string name="form_autofill_hint">MVP</string>
+    <string name="not_found">404 NOT FOUND</string>
+</resources>
